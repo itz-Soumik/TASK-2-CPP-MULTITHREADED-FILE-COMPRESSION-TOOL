@@ -34,5 +34,6 @@ Basic multithreading and synchronization
 
 This tool demonstrates the power of parallel processing and low-level file manipulation in C++, contributing to better performance in real-world data compression applications.
 
-
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/230efb25-596e-4b3b-85c3-73c499a3f83f)
 
